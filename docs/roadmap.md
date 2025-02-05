@@ -45,4 +45,4 @@ This work is being considered. The team is gaining confidence in this work but t
 - Remove dependency on jQuery across the design system
 - Release a community space to encourage early share and reuse
 - Review and improve the [Timeline component](/components/timeline/)
-- Review and improve the [Badge component](/components/badge/)
+- Review and improve the [Notification badge component](/components/notification-badge/)
